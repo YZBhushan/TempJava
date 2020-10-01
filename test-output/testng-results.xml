@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95149" started-at="2020-07-08T09:25:08Z" finished-at="2020-07-08T09:26:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95149" started-at="2020-07-08T09:25:08Z" finished-at="2020-07-08T09:26:43Z">
+      <class name="TempTest">
+        <test-method status="PASS" signature="tempmethode(java.lang.String, java.lang.String)[pri:0, instance:TempTest@76707e36]" name="tempmethode" duration-ms="22249" started-at="2020-07-08T09:25:08Z" data-provider="BDataProvider" finished-at="2020-07-08T09:25:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[84.0 beta]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tempmethode -->
+        <test-method status="PASS" signature="tempmethode(java.lang.String, java.lang.String)[pri:0, instance:TempTest@76707e36]" name="tempmethode" duration-ms="31709" started-at="2020-07-08T09:25:30Z" data-provider="BDataProvider" finished-at="2020-07-08T09:26:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[77.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tempmethode -->
+        <test-method status="PASS" signature="tempmethode(java.lang.String, java.lang.String)[pri:0, instance:TempTest@76707e36]" name="tempmethode" duration-ms="18625" started-at="2020-07-08T09:26:02Z" data-provider="BDataProvider" finished-at="2020-07-08T09:26:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[81.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tempmethode -->
+        <test-method status="PASS" signature="tempmethode(java.lang.String, java.lang.String)[pri:0, instance:TempTest@76707e36]" name="tempmethode" duration-ms="22501" started-at="2020-07-08T09:26:21Z" data-provider="BDataProvider" finished-at="2020-07-08T09:26:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tempmethode -->
+      </class> <!-- TempTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
